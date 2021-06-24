@@ -1,0 +1,1 @@
+prueba_make: prueba_make.o prueba_make.c
