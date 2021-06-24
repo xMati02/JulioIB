@@ -1,1 +1,2 @@
-prueba_make: prueba_make.o prueba_make.c
+examen_triangulo: examen_triangulo.o examen_triangulo.c
+Triangulo.o: Triangulo.c Triangulo.h
